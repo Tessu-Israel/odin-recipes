@@ -1,0 +1,5 @@
+-- I'm building a Recipe page
+-- Beginning with HTML:
+    - I want to practice my coding skolls in HTML
+    - Complete this basic plan today, and
+    - move on to the next lesson i.e., CSS
